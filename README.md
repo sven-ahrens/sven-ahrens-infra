@@ -4,7 +4,7 @@ This repo contains all the Kubernetes manifests needed to deploy my Laravel-base
 
 ---
 
-## 🧠 What’s this?
+## What’s this?
 
 This repo powers [`sven-ahrens`](https://github.com/sven-ahrens), a Laravel-based portfolio site that:
 - Introduces me (👋)
@@ -15,7 +15,7 @@ The infrastructure here deploys that app using raw Kubernetes + Kustomize. It's 
 
 ---
 
-## 🔧 What's in this repo
+## What's in this repo
 
 - `Deployment`, `Service`, `Ingress`, `Secrets`, and `ConfigMaps`
 - Kustomize setup with overlays (e.g., `dev`, `prod`)
